@@ -7,8 +7,9 @@ tags:
 ---
 
 date: 16-06-2016
-slug: nueva-entrada
-====
+## Funciones de Singularidad##
+
+
 $\left\langle x-a \right\rangle^{n} = \left\{\begin{matrix} (x-a)^n & si (x>a) \wedge n \geq 0 \\ 0 & demas casos \end{matrix} \right$
 
 $\left \langle x-a \right \rangle^{-1}$
