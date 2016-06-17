@@ -7,7 +7,7 @@ tags:       funciones de singularidad
 categories: ingeniería, mecánica
 ---
 
-$\newcommand{\fsin}[3]{#1\left\langle x-#2\right\rangle^{#3}} \\$
+$\newcommand{\fsin}[3]{#1\left\langle x-#2\right\rangle^{#3}} $
 
 Una función de singularidad \(\fsin{}{a}{n}\) se define como:
 
