@@ -10,7 +10,7 @@ categories: ingeniería, mecánica
 ## Funciones de Singularidad ##
 
 
-$$\left \langle x-a \right\rangle^{n} = \left\{\begin{matrix} (x-a)^n & si (x>a) \wedge n \geq 0 \\ 0 & demas casos \end{matrix} \right$$
+$$\left \langle x-a \right \rangle^{n} = \left \{ \begin{matrix} (x-a)^n & si (x>a) \wedge n \geq 0 \\ 0 & demas casos \end{matrix} \right$$
 
 $$\left \langle x-a \right \rangle^{-1}$$
 
