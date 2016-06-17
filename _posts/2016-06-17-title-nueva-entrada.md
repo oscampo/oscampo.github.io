@@ -22,7 +22,7 @@ Ahora, se propone la siguiente notación:
 $$q(x)=\left[ \begin{array}{rrrr} Ay & -P & By \\ 0 & a & l \\ -1 & -1 & -1 \end{array} \right]_{\langle{x}\rangle}$$
 $$q(x)=\left[ \begin{array}{r} \vec{c} \\ \vec{a} \\ \vec{n} \end{array} \right]_{\langle{x}\rangle}$$
 
-Donde $\vec{c}$ es el vector de cargas y reacciones, $\vec{a}$ es el vector de puntos de aplicación de las cargas y reacciones y $\vec{n}$ es el vector de exponentes de singularidad.
+Donde $$\vec{c}$$ es el vector de cargas y reacciones, $$\vec{a}$$ es el vector de puntos de aplicación de las cargas y reacciones y $$\vec{n}$$ es el vector de exponentes de singularidad.
 
 Con esta notación, la obtención de las expresiones de V(x), M(x), etc, se puede expresar como:
 
