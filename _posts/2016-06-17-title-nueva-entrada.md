@@ -6,9 +6,7 @@ date:       2016-06-17 09:59:03
 tags:       funciones de singularidad
 categories: ingeniería, mecánica
 ---
-<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 
-date: 16-06-2016
 ## Funciones de Singularidad ##
 
 
