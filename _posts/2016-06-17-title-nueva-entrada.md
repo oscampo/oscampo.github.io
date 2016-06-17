@@ -11,7 +11,7 @@ categories: ingeniería, mecánica
 
 $$\newcommand{\fsin}[3]{#1\left\langle x-#2\right\rangle^{#3}} \\$$
 
-Una función de singularidad $\fsin{}{a}{n}$ se define como:
+Una función de singularidad $$\fsin{}{a}{n}$$ se define como:
 
 $$\fsin{}{a}{n}=\left\{ \begin{array}{rlll}(x-a)^n & si & x \gt a \wedge n\ge 0 \\ 0 & demás & casos \end{array}\right.$$
 
