@@ -12,7 +12,7 @@ $$\newcommand{\fsin}[3]{#1\left\langle x-#2\right\rangle^{#3}} $$
 # Introducción#
 Para casos sencillos de cargas transversales en elementos que hacen parte de sistemas más complejos, es posible determinar el estado interno de cargas mediante el método tradicional de las "secciones", pero para configuraciones complejas de cargas transversales, el método de las secciones se vuelve engorroso. para estos casos se propone el método de las funciones de singularidad.
 
-![Viga Compleja]
+![Viga Compleja](https://www.dropbox.com/s/6hfnjig90od2x6g/VigaCompleja.jpeg?dl=0)
 
 Una función de singularidad $$ \fsin{}{a}{n} $$ se define como:
 
