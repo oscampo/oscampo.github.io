@@ -3,12 +3,12 @@
 ---
 @charset "utf-8";
 @font-face{ 
-	p {font-family: 'WebFont';Arial, sans-serif;}
-	src: url('WebFont.eot');
-	src: url('WebFont.eot?#iefix') format('embedded-opentype'),
-	     url('WebFont.woff') format('woff'),
-	     url('WebFont.ttf') format('truetype'),
-	     url('WebFont.svg#webfont') format('svg');
+	p {font-family: 'MyWebFont';Arial, sans-serif;}
+	src: url('myscriptfont-webfont.eot');
+	src: url('myscriptfont-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('myscriptfont-webfont.woff') format('woff'),
+	     url('myscriptfont-webfont.ttf') format('truetype'),
+	     url('myscriptfont-webfont.svg#webfont') format('svg');
 }
 
 // Our variables
