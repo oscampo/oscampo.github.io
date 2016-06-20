@@ -18,6 +18,16 @@ Una función de singularidad $$ \fsin{}{a}{n} $$ se define como:
 
 $$\fsin{}{a}{n}=\left\{ \begin{array}{rlll}(x-a)^n & si & x \gt a \wedge n\ge 0 \\ 0 & demás & casos \end{array}\right.$$
 
+# Propiedades de las Funciones de Singularidad #
+las funciones de singularidad tienen las siguientes propiedades:
+$$\begin{equation}
+  \frac{d}{dx}\fsin{}{a}{n}=\left\{ \begin{array}{crl}
+\frac{1}{n}(x-a)^{n-1} & si & n>1 \\ 
+(x-a)^{n-1} & demas & casos 
+\end{array}\right.
+\end{equation}$$
+
+
 Se puede modelar una viga con carga transversal simple, de la siguiente manera:
 
 $$q(x)=\fsin{Ay}{0}{-1}-\fsin{P}{a}{-1}+\fsin{By}{l}{-1}$$
