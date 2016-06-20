@@ -23,7 +23,7 @@ las funciones de singularidad tienen las siguientes propiedades:
 
 $$\begin{equation}
   \frac{d}{dx}\fsin{}{a}{n}=\left\{ \begin{array}{crl}
-\frac{1}{n}(x-a)^{n-1} & si & n>1 \\ 
+n(x-a)^{n-1} & si & n>1 \\ 
 (x-a)^{n-1} & demas & casos 
 \end{array}\right.
 \end{equation}$$
