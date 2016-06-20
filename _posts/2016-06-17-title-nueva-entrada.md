@@ -41,6 +41,9 @@ Estas propiedades son útiles teniendo en cuenta que $$V(x)=\int{q(x)}{dx}$$ y q
 # Otras propiedades #
 Las funciones de singularidad cumplen con el principio de superposición:
 
+    *Cuando causa y efecto estan relacionados linealmente, entonces el efecto total (de las causas actuando conjuntamente) es igual a la suma de los efectos de cada causa actuando individualmente*
+
+Esto significa que los modelos de cargas expresados en funciones de singularidad pueden sumarse o restarse para modelar cargas más complejas.
 Se puede modelar una viga con carga transversal simple, de la siguiente manera:
 
 $$q(x)=\fsin{Ay}{0}{-1}-\fsin{P}{a}{-1}+\fsin{By}{l}{-1}$$
