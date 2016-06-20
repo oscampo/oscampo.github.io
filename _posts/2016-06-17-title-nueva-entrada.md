@@ -20,6 +20,7 @@ $$\fsin{}{a}{n}=\left\{ \begin{array}{rlll}(x-a)^n & si & x \gt a \wedge n\ge 0 
 
 # Propiedades de las Funciones de Singularidad #
 las funciones de singularidad tienen las siguientes propiedades:
+
 $$\begin{equation}
   \frac{d}{dx}\fsin{}{a}{n}=\left\{ \begin{array}{crl}
 \frac{1}{n}(x-a)^{n-1} & si & n>1 \\ 
@@ -37,7 +38,7 @@ $$\begin{equation}
 Estas propiedades son útiles teniendo en cuenta que $$V(x)=\int{q(x)}{dx}$$ y que $$M(x)=\int{V(x)}{dx}$$
 
 
-#Otras propiedades#
+# Otras propiedades #
 Las funciones de singularidad cumplen con el principio de superposición:
 
 Se puede modelar una viga con carga transversal simple, de la siguiente manera:
