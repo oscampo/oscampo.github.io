@@ -27,6 +27,18 @@ $$\begin{equation}
 \end{array}\right.
 \end{equation}$$
 
+$$\begin{equation}
+  \int{\fsin{}{a}{n}}{dx}=\left\{ \begin{array}{crl}
+\frac{1}{n+1}(x-a)^{n+1} & si & n>1 \\ 
+(x-a)^{n+1} & demas & casos 
+\end{array}\right.
+\end{equation}$$
+
+Estas propiedades son útiles teniendo en cuenta que $$V(x)=\int{q(x)}{dx}$$ y que $$M(x)=\int{V(x)}{dx}$$
+
+
+#Otras propiedades#
+Las funciones de singularidad cumplen con el principio de superposición:
 
 Se puede modelar una viga con carga transversal simple, de la siguiente manera:
 
