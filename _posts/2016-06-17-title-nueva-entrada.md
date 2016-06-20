@@ -30,7 +30,7 @@ n(x-a)^{n-1} & si & n>1 \\
 
 $$\begin{equation}
   \int{\fsin{}{a}{n}}{dx}=\left\{ \begin{array}{crl}
-\frac{1}{n+1}(x-a)^{n+1} & si & n>1 \\ 
+\frac{1}{n+1}(x-a)^{n+1} & si & n \ge 1 \\ 
 (x-a)^{n+1} & demas & casos 
 \end{array}\right.
 \end{equation}$$
