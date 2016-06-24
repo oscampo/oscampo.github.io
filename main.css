@@ -6,7 +6,9 @@
 
 // Font variables
 $font-name: "myscriptfont";
-$font-path-file-name: {{ baseurl }}/css/myscriptfont-webfont;
+//$font-path-file-name: {{ baseurl }}/css/myscriptfont-webfont;
+$font-path-file-name: /css/myscriptfont-webfont;
+
 
 // font_name font
  @font-face {
