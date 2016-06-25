@@ -3,7 +3,7 @@
 ---
 //@charset "utf-8";
 
-@font-face {
+/* @font-face {
     font-family: 'Conv_MyScriptFont';
     src: url('MyScriptFont-webfont.eot');
     src: url('MyScriptFont-webfont.eot?#iefix') format('embedded-opentype'),
@@ -12,7 +12,15 @@
          url('MyScriptFont-webfont.svg') format('svg');
     font-weight: normal;
     font-style: normal;
-    }
+    } */
+
+@font-face {
+	font-family: 'Conv_MyScriptFont';
+	src: url('MyScriptFont.eot');
+	src: url('MyScriptFont.woff') format('woff'), url('MyScriptFont.ttf') format('truetype'), url('MyScriptFont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
 h1 {
 	font-family: 'Conv_MyScriptFont';
