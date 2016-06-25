@@ -19,4 +19,4 @@ github_username:  oscampo
 
 # Build settings
 markdown: redcarpet
-pygments: true
+highlighter: rouge
