@@ -18,5 +18,5 @@ twitter_username: OscarCampo_
 github_username:  oscampo
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
