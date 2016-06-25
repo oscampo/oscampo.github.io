@@ -18,4 +18,5 @@ twitter_username: OscarCampo_
 github_username:  oscampo
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+pygments: true
